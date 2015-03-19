@@ -638,7 +638,7 @@ header {
 header h1 {
   font-size: 70px;
   color: #f3f3f3;
-  text-shadow: 2px 3px 0px #ddd;
+  //text-shadow: 2px 3px 0px #ddd;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
@@ -968,7 +968,7 @@ footer a {
   }
 
   #banner {
-    display: none;
+    //display: none;
   }
 
   header ul {
