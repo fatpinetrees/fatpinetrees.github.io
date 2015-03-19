@@ -770,6 +770,13 @@ header p {
   background: url(../images/logo-white.png);
 }
 
+#logo-dark {
+  height: 36px;
+  width: 36px;
+  display: block;
+  background: url(../images/logo-dark.png);
+}
+
 .inTextImg {
     margin-top: 40px;
     margin-bottom: 40px;
