@@ -914,6 +914,7 @@ footer a {
   header {
     padding: 20px 20px;
     margin: 0;
+      position: fixed;
   }
   header h1 {
     font-size: 32px;
