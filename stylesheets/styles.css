@@ -771,6 +771,9 @@ header p {
 }
 
 #logo-dark {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   height: 36px;
   width: 36px;
   display: block;
