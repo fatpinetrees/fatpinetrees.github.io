@@ -914,7 +914,6 @@ footer a {
   header {
     padding: 20px 20px;
     margin: 0;
-      position: fixed;
   }
   header h1 {
     font-size: 32px;
@@ -951,7 +950,7 @@ footer a {
 }
 @media print, screen and (max-width: 480px) {
   header {
-    position: relative;
+    position: fixed;
     padding: 5px 0px;
     min-height: 0px;
   }
