@@ -993,6 +993,12 @@ footer a {
   }
 }
 @media print, screen and (max-height: 680px) {
+  nav {
+    width: 100%;
+    position: relative;
+    margin: 5px;
+    text-align: center;
+  }
   footer {
     text-align: center;
     margin: 20px auto;
