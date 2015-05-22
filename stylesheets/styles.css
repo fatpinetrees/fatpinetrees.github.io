@@ -939,6 +939,7 @@ footer a {
 
   #banner {
     top: 80px;
+      position: relative;
   }
   #banner .fork {
     float: left;
@@ -980,6 +981,7 @@ footer a {
   #banner {
     //display: none;
    background: rgba(0, 0, 0, 0);
+      position: relative;
   }
 
   header ul {
@@ -1003,6 +1005,7 @@ footer a {
     
     #banner {
         background: rgba(0, 0, 0, 0);
+        position: relative;
     }
     
   footer {
