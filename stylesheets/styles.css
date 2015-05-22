@@ -979,6 +979,7 @@ footer a {
 
   #banner {
     //display: none;
+   background: rgba(0, 0, 0, 0);
   }
 
   header ul {
@@ -999,6 +1000,11 @@ footer a {
     margin: 5px;
     text-align: center;
   }
+    
+    #banner {
+        background: rgba(0, 0, 0, 0);
+    }
+    
   footer {
     text-align: center;
     margin: 20px auto;
@@ -1010,8 +1016,12 @@ footer a {
 }
 @media print, screen and (max-height: 480px) {
   nav {
-    display: none;
+    //display: none;
   }
+    
+    #banner {
+        background: rgba(0, 0, 0, 0);
+    }
 
   footer {
     text-align: center;
