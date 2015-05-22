@@ -961,7 +961,7 @@ footer a {
 }
 @media print, screen and (max-width: 480px) {
   header {
-    position: relative;
+    position: fixed;
     padding: 5px 0px;
     min-height: 0px;
   }
