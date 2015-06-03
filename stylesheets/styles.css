@@ -1007,11 +1007,6 @@ footer a {
     text-align: center;
   }
     
-    #banner {
-        background: rgba(0, 0, 0, 0);
-        position: relative;
-    }
-    
   footer {
     text-align: center;
     margin: 20px auto;
@@ -1025,10 +1020,6 @@ footer a {
   nav {
     display: none;
   }
-    
-    #banner {
-        background: rgba(0, 0, 0, 0);
-    }
 
   footer {
     text-align: center;
