@@ -873,6 +873,7 @@ footer a {
 
   nav {
     display: none;
+    width 100%;
   }
 
   header, section, footer {
@@ -924,6 +925,7 @@ footer a {
   header {
     padding: 20px 20px;
     margin: 0;
+    width: 100%;
   }
   header h1 {
     font-size: 32px;
@@ -939,7 +941,8 @@ footer a {
 
   #banner {
     top: 80px;
-      position: relative;
+    position: relative;
+    width: 100%;
   }
   #banner .fork {
     float: left;
@@ -961,6 +964,7 @@ footer a {
 }
 @media print, screen and (max-width: 480px) {
   header {
+    width: 100%;
     position: fixed;
     padding: 5px 0px;
     min-height: 0px;
@@ -1019,7 +1023,7 @@ footer a {
 }
 @media print, screen and (max-height: 480px) {
   nav {
-    //display: none;
+    display: none;
   }
     
     #banner {
